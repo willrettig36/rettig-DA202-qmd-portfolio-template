@@ -1,0 +1,26 @@
+
+---
+
+### `about.qmd`
+```markdown
+---
+title: "About"
+---
+
+# About Me
+
+I’m a junior/senior Data Analytics student at **College Name**. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
+
+## Skills
+- **Programming:** R (tidyverse), (Python), SQL  
+- **Tools:** Git/GitHub, Quarto, Excel, Tableau/Power BI  
+- **Analytics:** visualization, modeling, experimental design, reporting
+
+## What I’m working on
+- (Add 1–2 bullets: capstone topic, research, internship project, etc.)
+
+## Coursework (optional)
+- (Add 3–5 relevant courses)
+
+## Resume (optional)
+Add a link to a PDF resume stored in your repo, or link to LinkedIn.

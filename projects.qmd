@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+Below are a few projects that showcase my work. For each project, aim for:
+- **What question you asked**
+- **What data you used**
+- **What methods you used**
+- **What you found**
+- **A link to code / report**
+
+---
+
+## Project 1 — Title (Course / Personal / Internship)
+
+**Goal:** (1–2 sentences)  
+**Data:** (source, size, key variables)  
+**Methods:** (e.g., regression, clustering, classification, visualization)  
+**Key result:** (1–2 sentences)  
+**Link:** GitHub repo / report (optional)
+
+### Example visualization (optional)
+```{r}
+# Optional: include a quick plot if you want.
+# If you don't want code on your website yet, delete this chunk.
+
+library(ggplot2)
+
+ggplot(mpg, aes(displ, hwy)) +
+  geom_point() +
+  labs(
+    title = "Example plot (replace with your own)",
+    x = "Engine displacement",
+    y = "Highway MPG"
+  )

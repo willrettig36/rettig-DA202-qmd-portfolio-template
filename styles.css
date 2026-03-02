@@ -1,0 +1,9 @@
+/* Simple styling tweaks (optional). Keep it minimal. */
+
+h1, h2, h3 {
+  margin-top: 1.2em;
+}
+
+.callout {
+  border-radius: 12px;
+}
