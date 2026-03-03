@@ -11,3 +11,5 @@ Thumbs.db
 
 # Quarto output (we DO want /docs tracked for GitHub Pages)
 # So do NOT ignore docs/
+
+/.quarto/
