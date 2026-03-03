@@ -4,7 +4,7 @@ title: "Home"
 
 # Your Name
 
-Welcome! I’m **Your Name**, a Data Analytics major interested in **(your interests here: data visualization, analytics engineering, sports analytics, public health, etc.)**.
+Welcome! I’m Will Rettig, a Data Analytics major interested in sports analytics and psychology.
 
 ## What you’ll find here
 - A few projects I’m proud of
@@ -17,10 +17,10 @@ Welcome! I’m **Your Name**, a Data Analytics major interested in **(your inter
 
 ## Quick highlights
 - **Skills:** R, tidyverse, SQL, data visualization, statistical modeling  
-- **Interests:** (add 2–3)  
-- **Currently seeking:** internships / research / full-time roles (optional)
+- **Interests:** Baseball, Reading, Fishing
+- **Currently seeking:** full-time positions
 
 ## Contact
-- Email: yourname@example.com  
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (optional)
+- Email: rettig_w1@denison.edu or wrettig36@gmail.com  
+- GitHub: https://github.com/willrettig36 
+- LinkedIn: https://www.linkedin.com/in/willrettig/
