@@ -9,7 +9,7 @@ title: "About"
 
 # About Me
 
-I’m a junior/senior Data Analytics student at **College Name**. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
+I’m a senior Data Analytics student at Denison University. I enjoy turning messy data into clear insights and communicating results in a reproducible way.
 
 ## Skills
 - **Programming:** R (tidyverse), (Python), SQL  
